@@ -4,4 +4,4 @@ In this project you will find a (fake) dataset simulating real customer data. Th
 
 #Binder Pass for this folder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElBarso/Regression-For-Dummies/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElBarso/Regression-For-Dummies/main)
