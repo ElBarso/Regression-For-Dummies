@@ -1,2 +1,3 @@
-# Regression-For-Dummies
-A linear regression model applied to a real case to show machine learning basics.
+#Binder Pass for this folder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElBarso/Data_Science/master)
